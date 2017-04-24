@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewsAPIAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="toast_no_connection">No Connection</string>
+    <string name="toast_no_articles">No Articles Available now Please Check Later</string>
+
+    <!-- activity_new_apiapp_drawer Strrings-->
+    <string name="menu_all_sources">All Sources</string>
+    <string name="menu_tech_sources">Technology Sources</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
