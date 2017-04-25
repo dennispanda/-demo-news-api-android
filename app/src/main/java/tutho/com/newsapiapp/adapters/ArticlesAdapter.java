@@ -64,6 +64,7 @@ public class ArticlesAdapter extends RecyclerView.Adapter<ArticlesAdapter.Articl
         holder.txtTitle.setText(title);
         holder.txtDescription.setText(desc);
         holder.txtDate.setText(pubDate);
+        holder.imgArticle.setScaleType(ImageView.ScaleType.FIT_XY);
         Glide.with(ctx)
                 .load(imgUrl)
                 .centerCrop()
